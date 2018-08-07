@@ -1,24 +1,8 @@
-# README
+Chapter 2 of railstutorial.org
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+see deployed at:
+Chapter 1:
+https://ancient-taiga-13863.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Chapter 2:
+https://shrouded-hollows-24172.herokuapp.com/
