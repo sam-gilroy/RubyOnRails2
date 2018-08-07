@@ -1,6 +1,7 @@
 Chapter 2 of railstutorial.org
 
 see deployed at:
+
 Chapter 1:
 https://ancient-taiga-13863.herokuapp.com/
 
